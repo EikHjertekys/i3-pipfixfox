@@ -21,5 +21,5 @@ bindsym Mod4+shift+p exec --no-startup-id /path/to/i3-piptile.sh
 
 - Note : Make sure that 'xdotool keyup' (line 7) matches your i3 keybind 
 
-- Usage
-Hover over a video in Firefox with your cursor and perform the keybind. 
+Usage
+- Hover over a video in Firefox with your cursor and perform the keybind. 
