@@ -1,5 +1,5 @@
 # i3-pipfixfox
-i3-piptile is a simple bash script that circumvents an issue with accessing PiP mode (Picture-in-Picture) through keyboard shortcut for non-US keyboard layouts in Firefox. Additionally, new PiP windows opened with pipfixfox are automatically tiled.
+i3-pipfixfox is a simple bash script that circumvents an issue with accessing PiP mode (Picture-in-Picture) through keyboard shortcut for non-US keyboard layouts in Firefox. Additionally, new PiP windows opened with pipfixfox are automatically tiled.
 
 Requirements
 - xdotool
